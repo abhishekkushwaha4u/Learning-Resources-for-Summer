@@ -4,7 +4,7 @@
 	<h4 align="center"> This is where you'll find plenty of resources to learn from<h4>
 </p>
 
-##### [Data Strcutures and Algorithms](./Data-Structures-and-Algorithms/Resources.md)
+##### [Data Structures and Algorithms](./Data-Structures-and-Algorithms/Resources.md)
 
 ##### [Deep Learning](./Deep-Learning/Resources.md)
 

@@ -10,9 +10,9 @@
 
 * [Google Javascript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
-* [React.js documentation](https://reactjs.org/docs/getting-started.html)
+* [React.js Documentation](https://reactjs.org/docs/getting-started.html)
 
-* [Angular.js documentation](https://docs.angularjs.org/guide)
+* [Angular.js Documentation](https://docs.angularjs.org/guide)
 
 * [React.js Course](https://www.youtube.com/watch?v=DLX62G4lc44)
 
