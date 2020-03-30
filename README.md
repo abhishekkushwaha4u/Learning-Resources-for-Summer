@@ -31,7 +31,11 @@
   4) [CS224n Natural Language Processing With Deep Learning, Stanford](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 ### SQL
-
+  1) [W3Schools](https://www.w3schools.com/sql/default.asp)
+  2) [Codecademy](https://www.codecademy.com/learn/learn-sql)
+  3) [SQLZoo](https://sqlzoo.net/)
+  4) [Tutorialspoint](https://www.tutorialspoint.com/sql/)
+  
 ### Javascript
   1) https://code.visualstudio.com/docs/languages/javascript
   2) http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/jsref/default.asp.html
