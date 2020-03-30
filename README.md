@@ -9,3 +9,5 @@
 # SQL
 
 # Javascript
+  https://code.visualstudio.com/docs/languages/javascript
+  http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/jsref/default.asp.html
