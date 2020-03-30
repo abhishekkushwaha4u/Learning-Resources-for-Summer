@@ -21,3 +21,9 @@
 * [Node.js Full Course(paid)](https://www.udemy.com/share/101WGiBkocdVxUR34=/)
 
 * [Project Oriented Javascript Course(paid)](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/)
+
+* [Visual Studio Code Javascript Documentation](https://code.visualstudio.com/docs/languages/javascript)
+
+* [Mozilla Developers Network Javascript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+* [Eloquent Javascript](https://eloquentjavascript.net/)
