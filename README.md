@@ -1,13 +1,17 @@
 # Learning-Resources-for-Summer
 
-# DSA
+
+
+### DSA
   https://www.programiz.com/dsa
   https://www.udemy.com/course/learning-data-structures-and-algorithms/[paid]
 
-# Deep Learning
+### Deep Learning
 
-# SQL
+### SQL
 
-# Javascript
+### Javascript
   https://code.visualstudio.com/docs/languages/javascript
   http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/jsref/default.asp.html
+
+(Add some other topic too, if you have)
