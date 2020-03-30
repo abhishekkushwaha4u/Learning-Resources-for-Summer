@@ -10,9 +10,9 @@
 
 * [Google Javascript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
-* [React.js documentation](https://reactjs.org/docs/getting-started.html)
+* [React.js Documentation](https://reactjs.org/docs/getting-started.html)
 
-* [Angular.js documentation](https://docs.angularjs.org/guide)
+* [Angular.js Documentation](https://docs.angularjs.org/guide)
 
 * [React.js Course](https://www.youtube.com/watch?v=DLX62G4lc44)
 
@@ -21,3 +21,9 @@
 * [Node.js Full Course(paid)](https://www.udemy.com/share/101WGiBkocdVxUR34=/)
 
 * [Project Oriented Javascript Course(paid)](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/)
+
+* [Visual Studio Code Javascript Documentation](https://code.visualstudio.com/docs/languages/javascript)
+
+* [Mozilla Developers Network Javascript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+* [Eloquent Javascript](https://eloquentjavascript.net/)
