@@ -3,6 +3,12 @@
 ### DSA
   1) https://www.programiz.com/dsa
   2) https://www.udemy.com/course/learning-data-structures-and-algorithms/[paid]
+  3) https://drive.google.com/file/d/0B-W-TWxgtybGd3dFUzg1OHNsM2M/view
+  4) https://www.youtube.com/watch?v=__vX2sjlpXU
+  5) https://discuss.codechef.com/t/multiple-choice-questions-related-to-testing-knowledge-about-time-and-space-complexity-of-a-program/17976
+  6) https://www.geeksforgeeks.org/data-structures/
+  7) https://www.youtube.com/watch?v=RBSGKlAvoiM
+  8) https://nptel.ac.in/courses/106/106/106106145/
 
 ### Deep Learning
   
@@ -35,13 +41,15 @@
   2) [Codecademy](https://www.codecademy.com/learn/learn-sql)
   3) [SQLZoo](https://sqlzoo.net/)
   4) [Tutorialspoint](https://www.tutorialspoint.com/sql/)
+  5) [PL/SQLDocs]https://docs.oracle.com/cd/E17781_01/admin.112/e18585.pdf
   
   Refer to the folder for more resources and advanced usage of SQL.
   
 ### Javascript
   1) https://code.visualstudio.com/docs/languages/javascript
   2) http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/jsref/default.asp.html
-  
+  3) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+  4) https://eloquentjavascript.net/
   Refer to the folder on Javascript specifically made for this purpose
 
 
