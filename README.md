@@ -35,6 +35,8 @@
 ### Javascript
   1) https://code.visualstudio.com/docs/languages/javascript
   2) http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/jsref/default.asp.html
+  
+  Refer to the folder on Javascript specifically made for this purpose
 
 
 (Add some other topic too, if you have)
