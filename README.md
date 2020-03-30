@@ -50,7 +50,8 @@
   2) http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/jsref/default.asp.html
   3) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
   4) https://eloquentjavascript.net/
-  Refer to the folder on Javascript specifically made for this purpose
+  
+   Refer to the folder on Javascript specifically made for this purpose
 
 
 (Add some other topic too, if you have)
