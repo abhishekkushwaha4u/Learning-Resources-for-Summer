@@ -10,8 +10,6 @@
 
 * [MySQL Documentation](https://dev.mysql.com/doc/)
 
-* [SQL Learning Guide](https://www.w3schools.com/sql/)
-
 * [Node.js, PostgreSQL and Sequelize.js CRUD](https://bezkoder.com/node-express-sequelize-postgresql/)
 
 * [Node.js, PostgreSQL, Sequelize.js and Express.js REST API](https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api)
