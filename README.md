@@ -36,6 +36,8 @@
   3) [SQLZoo](https://sqlzoo.net/)
   4) [Tutorialspoint](https://www.tutorialspoint.com/sql/)
   
+  Refer to the folder for more resources and advanced usage of SQL.
+  
 ### Javascript
   1) https://code.visualstudio.com/docs/languages/javascript
   2) http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/jsref/default.asp.html
