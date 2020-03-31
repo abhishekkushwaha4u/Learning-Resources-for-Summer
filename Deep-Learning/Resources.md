@@ -28,4 +28,4 @@
 
 * [Keras Documentation](https://keras.io/)
 
-* [Deep Learning with Specialization in Tensorflow] (https://www.deeplearning.ai/tensorflow-in-practice/) Give heavy consideration to this course if you plan to pursue Google's TensorFlow developer certification
+* [Deep Learning with Specialization in Tensorflow](https://www.deeplearning.ai/tensorflow-in-practice/) (Give heavy consideration to this course if you plan to pursue Google's TensorFlow developer certification)
