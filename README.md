@@ -12,6 +12,8 @@
 
 ##### [SQL](./SQL/Resources.md)
 
+##### [Python](./Python/Resources.md)
+
 <br>
 <br>
 <p align="center">
