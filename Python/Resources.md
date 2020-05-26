@@ -12,7 +12,7 @@
 
 * [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x/)
 
-* [Python 2.7.17 Documentation](https://docs.python.org/2/index.html)
+* [Python 2.7.17 Documentation(Deprecated)](https://docs.python.org/2/index.html)
 
 * [Python Tutorial W3Schools](https://www.w3schools.com/python/)
 
